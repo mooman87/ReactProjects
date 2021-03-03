@@ -1,0 +1,26 @@
+.navbtn {
+  height: 125px;
+  width: 125px;
+  background-color: white;
+  border: hidden;
+  outline: none;
+}
+
+h1 {
+  color: #f54300;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.post-img {
+  width: auto;
+  height: 220px;
+}
+
+.post-info {
+  color: #f54300;
+}
+
+.social {
+  text-align: center;
+}
