@@ -1,22 +1,15 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Footer from "./Footer";
-import {
-  Figure,
-  FigureImage,
-  FigureCaption,
-  Col,
-  Row,
-  Container
-} from "react-bootstrap";
+import { Container } from "react-bootstrap";
 
 function Shop() {
   return (
     <Container fluid="sm">
       <div style={{ paddingTop: 40 }}>
         <div>
-          <h1>Shop</h1>
-          <p>
+          <h1>Coming Soon!</h1>
+          {/* <p>
             Our high quality canvas prints are the perfect accent piece for your
             home or office. Choose from a variety of options, including size,
             matte or glossy, and printing material.
@@ -64,7 +57,7 @@ function Shop() {
               />
               <Figure.Caption>Cabin - $100</Figure.Caption>
             </Figure>
-          </Row>
+          </Row> */}
         </div>
         <Footer />
       </div>

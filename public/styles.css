@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://www.transparenttextures.com/patterns/cream-dust.png");
+}
+
+.slideshow {
+  height: 800px;
+  width: 800px;
+  object-fit: contain;
+}
+
+.nav-styles {
+  margin-top: -50px;
+  margin-bottom: -50px;
+}
