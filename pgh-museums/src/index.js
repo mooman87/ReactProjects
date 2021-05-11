@@ -16,7 +16,3 @@ ReactDOM.render(
   document.getElementById("root")
 );
 
-//what to show, where to show it
-//must have div to render more than one element
-//renders App component
-//can render multiple html tags in render method
